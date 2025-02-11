@@ -1,0 +1,37 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/nf-core/rnaseq/master/assets/schema_input.json",
+    "title": "three prime extension pipeline input",
+    "description": "Schema for the file provided with input_csv",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "ID": {
+                "type": "string",
+                "pattern": "^[a-zA-Z0-9]+$",
+                "errorMessage": "ID must be a string or number without '/' or special characters."
+            },
+            "human": {
+                "type": "string",
+                "pattern": "^(.+\\.(gff|gff3|gtf)|[Nn]/[Aa]|[Nn][Aa])$",
+                "errorMessage": "Human Genome input must be a .gff, .gff3, or .gtf file, or 'na', 'NA', 'N/A', or 'n/a'."
+            },
+            "polyA": {
+                "type": "string",
+                "pattern": "^(.+\\.bed|[Nn]/[Aa]|[Nn][Aa])$",
+                "errorMessage": "polyA input must be a .bed file, or 'na', 'NA', 'N/A', or 'n/a'."
+            },
+            "fantom": {
+                "type": "string",
+                "pattern": "^(.+\\.(gff|gff3|gtf)|[Nn]/[Aa]|[Nn][Aa])$",
+                "errorMessage": "fantom transcript must be a .gff, .gff3, or .gtf file, or 'na', 'NA', 'N/A', or 'n/a'."
+            },
+            "encode": {
+                "type": "string",
+                "pattern": "^(.+\\.(gff|gff3|gtf)|[Nn]/[Aa]|[Nn][Aa])$",
+                "errorMessage": "long read must be a .gff, .gff3, or .gtf file, or 'na', 'NA', 'N/A', or 'n/a'."
+            }
+        }
+    }
+}

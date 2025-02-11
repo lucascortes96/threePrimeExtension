@@ -1,0 +1,3 @@
+ID, human, polyA, fantom, encode
+one, /nfs/production/flicek/ensembl/havana/lucascortes/grabAnnotation/latestAnnotation/Homo_sapiens.GRCh38.114.chr.gff3, /nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/atlas.clusters.2.0.GRCh38.96.filtered.bed, /nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/FANTOM6CATtranscript.gff, /nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/ENCODE_LongReadModels.gtf
+two, na,na,na,/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/ENCODE_LongReadModels.gtf

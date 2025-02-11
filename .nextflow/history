@@ -1,0 +1,218 @@
+2025-01-28 13:21:19	-	extravagant_woese	-	c01b0f6edf672efc8dd3685371e1032e	92851912-be7c-4ed4-bb28-d0966c709dd9	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 13:22:26	-	amazing_becquerel	-	c01b0f6edf672efc8dd3685371e1032e	100a0e09-b22b-47a3-a389-6e17a89b8acc	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 13:24:09	-	adoring_swartz	-	c01b0f6edf672efc8dd3685371e1032e	6de6d19b-e9ca-4570-b520-11ee690d1fea	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 13:25:00	-	sad_saha	-	c01b0f6edf672efc8dd3685371e1032e	bb7bc18a-1832-4660-a3e3-14050f6e31db	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 13:25:20	-	berserk_franklin	-	c01b0f6edf672efc8dd3685371e1032e	62126315-eada-4728-aa57-bb4fd7bccab2	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 13:26:23	-	intergalactic_franklin	-	c01b0f6edf672efc8dd3685371e1032e	a9a832fb-d305-4cf0-a0eb-21b3143a816b	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 13:27:13	-	compassionate_mayer	-	c01b0f6edf672efc8dd3685371e1032e	ebd8636f-e5f9-41b7-9fd4-bdc86da25aef	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 13:27:45	-	elated_solvay	-	6b958d65ef63b49f28a8b588f0e5f1ec	79345cbf-95da-49fd-a161-9f6f06e18ade	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 13:29:26	-	evil_knuth	-	9193b4f8b153ed4b6b25e41fe2c96edc	eae77094-b02b-47bc-bc0c-c5c85636c980	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 13:30:00	-	exotic_rubens	-	3be657e4f75dd99fd8a0273eafec0962	b7201151-89a8-456a-b4cd-17bda37d5d69	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 13:31:51	-	gigantic_colden	-	3be657e4f75dd99fd8a0273eafec0962	2bd9180f-3824-4a95-87fe-5734279abaf3	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 13:32:10	-	loquacious_maxwell	-	3be657e4f75dd99fd8a0273eafec0962	dc98b633-3b15-4dc2-8926-b9cec21c1616	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:48:40	-	determined_kare	-	b9f538dd39aced040041741328735f1c	e64e3409-dca2-4258-b838-3c44100a88f7	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:50:27	5s	magical_williams	ERR	55b094d28f80aa37ae0384f36a10883b	6222ace4-cde9-4555-b853-7555f22f8fa7	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:54:15	-	dreamy_ardinghelli	-	26742a3c2f2b98ea6385c1c9ec954caa	79c35165-fe22-43d9-88b9-434724b051bd	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:54:39	4.6s	festering_plateau	ERR	be35425e488b8d6633290de93a90d99c	1e03356d-f6fb-4533-9ab7-99db0628bda4	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:55:22	4.5s	berserk_sanger	ERR	4ecce89336984bda1acd5a959b1549ea	ac181251-eb35-4ffa-a4a2-f23f2560a2fd	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:58:01	4.9s	cheesy_jones	ERR	0537fe647d8285ecadb4f7e75162dae6	e5791c99-1b1f-4700-9bd9-052a65908f82	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 14:59:38	6s	hopeful_lamarr	ERR	0537fe647d8285ecadb4f7e75162dae6	55c8f551-b0b2-404f-8ee7-72d423ab42bd	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:02:43	-	romantic_jepsen	-	0537fe647d8285ecadb4f7e75162dae6	19081b08-e910-4a8a-9dac-5dbd4a00344e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:08:53	-	mad_rutherford	-	0537fe647d8285ecadb4f7e75162dae6	a9ffd5b9-7136-4cd1-b099-ddc283663c76	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:11:17	5.2s	reverent_boyd	ERR	0537fe647d8285ecadb4f7e75162dae6	cabf0602-1f57-4146-8875-a7d7328df54a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:12:14	4.8s	naughty_watson	ERR	fe4ce0a46d038d52fb7e2f0f4827b061	894b01be-1760-4fd6-88e5-826877d30fc8	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:13:03	16.4s	insane_bose	ERR	a63debbd16b30dd061130115551fc7c7	68e788e9-e984-4f3f-8f40-e8576fc4a916	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:16:30	5s	agitated_swartz	ERR	6a08aef3c9daea9f911fe7f5da4ecd19	16fd8ce7-0c17-42b8-b37b-1b48f312cfb2	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:18:10	33.1s	jolly_pauling	ERR	1e013b1ffae6b7f04795c5e84f026dbd	5da248a3-6adc-420c-8da6-9b5b8d474be0	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:22:47	-	pedantic_mcnulty	-	f3322ba9a6028a567a3183534772ee66	bd66d8eb-0c8d-454e-a1cc-5bfdb3a6f754	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 15:23:58	1m 13s	irreverent_magritte	ERR	f3322ba9a6028a567a3183534772ee66	9f8c5deb-6c02-443a-97e1-66dd11913a20	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:25:26	28.2s	zen_volhard	ERR	0ef953903daa3997fa069039ecaa2108	241a3190-0107-44ed-a266-3b9753bb6b4c	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:28:04	-	gigantic_faggin	-	73d403d2aca4a273417d56f67a7b824d	4933db34-7180-4edd-9911-27b0e8e568f2	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 15:28:44	-	voluminous_monod	-	0ef953903daa3997fa069039ecaa2108	3aca38ca-49a2-433c-9b0a-88b83a5250e5	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 15:29:15	-	kickass_galileo	-	73d403d2aca4a273417d56f67a7b824d	784a5035-0d49-4a32-a444-cf2dca162617	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 15:30:30	-	pensive_pasteur	-	523fe81392e4cfc940cd46fbf9aa6a6b	0c82fa01-e15e-42b7-a64a-7e6febfa9124	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 15:31:00	14.9s	hopeful_mahavira	ERR	523fe81392e4cfc940cd46fbf9aa6a6b	f93f2536-0244-47a6-889f-70c5555cf907	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:33:02	5.9s	chaotic_boyd	ERR	eb6cab7e2d6fb265f18a6de2e882a0a1	bb9d185e-3781-490c-8bbb-82c478051e61	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:33:42	4.6s	hopeful_leakey	ERR	cb43d09158eb41bc81b4007d6fdbbfb4	6bfc7555-083d-4c4a-8d34-e0d0ea281123	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:35:04	33.2s	mighty_ampere	ERR	2456ea4e8b51a12edafa6265588c901a	d28fcab2-f0e2-4fe2-9728-19a9f3516ba0	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:35:59	9.1s	distraught_curran	ERR	75febf22f9da30566d800d7cd1b1da67	0cabf86c-7bea-48cf-aafb-b9e5dc4937e1	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:37:21	14s	magical_lorenz	ERR	ce13b5ea500bfe2d247e8447fcdce5d5	589dad7d-515c-4533-90dd-59e7d669e0d5	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:40:23	-	distracted_celsius	-	6bc670d41ae1f9ce34d9cd34908ce740	a9422ac3-4599-4439-82a4-e4819554948c	nextflow run main.nf -c nextflow.config --input input.csv
+2025-01-28 15:43:10	-	extravagant_kay	-	6bc670d41ae1f9ce34d9cd34908ce740	d5f1d290-0b45-40be-bf2d-bd215b8b034a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:43:44	11.9s	loving_mercator	ERR	f22f60202efcbcd7a09c7ddc9eb6dfc3	a6e4fc9e-9c16-49c3-893e-68ecd6037b1e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 15:44:36	-	big_leakey	-	ebbcb020926da85540022803b51c0120	644a5f42-f985-4f0b-babf-2b6da3726309	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:02:28	-	golden_swirles	-	ab3497868bbdf423bf2757a74f0e3b8c	e6a1a1f7-30fa-464b-b7f7-487c633f035b	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:03:04	5s	sharp_becquerel	ERR	45a3b72839cf2d79b6c4152b2efec1ec	88ce9012-f301-420f-b8fa-55e2f1a7614e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:05:31	-	jolly_avogadro	-	d91d9b1eb0659c6713ac50c066ae6f96	01e5edb9-0b76-4e53-b171-1901b444b93d	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:06:28	4.9s	clever_gauss	ERR	70dc960cf36f33fda685d917d5e26b70	764cead7-0897-484f-aa31-46781ef7f260	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:08:13	9.1s	agitated_meucci	ERR	27969bc119cd2fe5b1ab7d91ac0cb770	2e142a94-df05-44d0-a83e-2d8979e07dc4	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:10:31	5.4s	lonely_kimura	ERR	9d63611ca45fae8590ffa47afe200d1d	15a2f12e-35ff-4a74-aa6a-1b0d2d0f6318	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:12:43	23s	confident_descartes	ERR	7a2013693f213a93ea97ff7d97dadbb9	f60c8b16-ab0a-4d07-8bea-20020c1a3847	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:14:03	-	nice_laplace	-	a7ca261a501d027d1698cc7619eafa11	73148c66-c5ee-426b-911f-9d3742ec8b09	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:14:22	24.5s	cranky_joliot	ERR	6f60bc068734790609d5ac2e6feba075	a03b9143-1415-4642-b3eb-1f29bf0b063a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:14:53	21.6s	sad_rubens	ERR	259b272dbf451206382ad1055aa903fc	2b52230e-fd21-4847-be92-3f5b4bfd614f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:18:36	4.7s	disturbed_swirles	ERR	259b272dbf451206382ad1055aa903fc	65b75dc7-3f04-4383-999c-fb6770382f2e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:19:01	14.9s	angry_kay	ERR	137d2bc9c994582ff9e0c4f41800f475	0be5f2a0-5069-44c4-9b40-60a735470eef	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:22:30	20.1s	sleepy_ride	ERR	8f5cabe7fc0904a2e766ef8b81b65ae2	d57dd27c-2c0b-43fe-a847-8b0efc35619c	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:26:24	-	distraught_baekeland	-	01216990f59249f53e6952698be9d71a	d02f8907-b482-4b30-9ece-4fb5a309b777	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:27:17	6.8s	angry_linnaeus	ERR	7c7ab0d80d61c61a81e76ed6546f5d57	ee2b9777-6cdf-4a85-988f-e6659f5f9890	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:29:49	23.5s	evil_avogadro	ERR	6beff57bad60d0ae2bad9eee9dc75858	e943592a-7d84-4074-971a-1612a795ceb1	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:32:00	-	nauseous_northcutt	-	76a99b3532af6e621e83f349a3933350	7ecd0e61-96f8-4db4-8ddf-b9c35fdbd32d	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:32:40	10.1s	desperate_visvesvaraya	ERR	333740d897231339199f66629da18b1c	6f637b79-978e-4642-aa71-fc7910c13cc6	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:33:12	8s	adoring_roentgen	ERR	4cf2dd4b44a1033f822bb05a4ee38b81	a9eea69d-a67b-4dab-99f0-8e5a6dbe0d8e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:34:28	8s	small_cuvier	ERR	02baf94b140de2c69e31254f46ecff11	ee2a530a-9b78-470b-9316-83e9d2b77aa5	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:36:25	26.2s	pedantic_franklin	ERR	29b6df25089ec5ff21119d7caf42c9df	ea1d2669-81d3-4d22-8fbe-2b98ea48106a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:37:25	34.9s	special_meucci	ERR	29b6df25089ec5ff21119d7caf42c9df	e9997fac-e14e-4b62-b8e0-667d4c2a7f47	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:38:11	1m 12s	distraught_rubens	ERR	8257176dd172fdfbace0fbcf04fd91bb	b400ad62-03d8-4d05-9390-615ead04b355	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:41:35	27.4s	pedantic_church	ERR	1de286f378c78cf0c27ac7193fb841b2	ff713d69-9a6d-4de4-a9dd-eba94541ef1c	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:42:49	4.7s	scruffy_brenner	ERR	198c8e2ad83c74ec3773fb0e9228071c	36cc7159-a261-47a2-b561-fda888a4abf4	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:43:06	5.1s	romantic_montalcini	ERR	d538f125313afa8ceb269b72e89c1f84	610af8b4-0ba4-4edd-ad4d-20f48d564b19	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:44:10	4.7s	jolly_einstein	ERR	198c8e2ad83c74ec3773fb0e9228071c	18f22aee-1dce-4afe-bf57-d226b06e9033	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:46:14	-	modest_meucci	-	bbf1d60e996ea32c792d69cab92c3855	f23d9ba3-aedf-41fa-b6d1-69c423df174f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:46:43	30.7s	chaotic_laplace	ERR	e2d3094bd09211a9105609b156104191	6f99e62a-4857-4399-8ca8-a6b1aba03dea	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:47:22	23.3s	drunk_volhard	ERR	a2ced067bd6bf9d6fff583d3527e672b	14addc2d-19e9-4054-8706-8177d7a5066f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:48:33	10.9s	spontaneous_angela	ERR	b95ba37dc7f89a1efa7aadb25faf0d6a	7e900bf9-e289-44e1-bf30-dc9c55096a0d	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:50:09	24.6s	elated_albattani	ERR	a0741d222408300bc0bf45636de424f8	766ab811-e1b6-4178-be2a-7bdeb6cb3b00	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-28 17:54:25	37.9s	silly_goldstine	ERR	a39a2cfafc4bd03412c8089db2b54ba5	d3bf74a7-7a98-4768-909a-1d57893df43b	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 09:41:20	-	wise_kowalevski	-	be07057e6c21afda87fa1f9a7934d006	dcefa4fb-b6b5-4a62-b14b-b5542a12107f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 10:24:10	-	big_mcnulty	-	be07057e6c21afda87fa1f9a7934d006	95b73677-0880-4454-97f5-35c1ccebded9	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 10:25:24	9.3s	ecstatic_neumann	ERR	be07057e6c21afda87fa1f9a7934d006	c263fa6e-7cba-478e-86c5-c61a34558d9c	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 11:20:39	-	lonely_khorana	-	1e42250868a2ba311699ed0131db8bb1	223e7139-0460-4829-98b0-c10730445e6b	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 11:21:13	6.6s	tender_gates	ERR	1e42250868a2ba311699ed0131db8bb1	8f2b3394-53b5-45ac-a5a5-52ddf29e63aa	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 11:53:47	6.9s	cheeky_allen	ERR	9e09ebc3f4ff559f8a918be5f2ed69a3	2f4c2aac-5e19-4d31-9c46-d8213644cef6	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 11:54:32	-	loquacious_swanson	-	81dc298f94e68534208c3f0d66da4286	fc1a864b-1f01-49e7-ad41-6fd5dce69a34	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 11:54:57	5.9s	happy_curran	ERR	8c7726d1792234fab6291591f86cd3e1	305474d2-3f46-4a22-a615-c0061b09e258	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 11:59:26	5.9s	cheesy_rosalind	ERR	8c7726d1792234fab6291591f86cd3e1	feffc9b6-d2d2-4e27-b62a-dbed4f96daa7	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 12:06:43	1m 46s	lethal_lagrange	ERR	7159d833e1eb715c921af3748e17dd3a	c5f2a87f-8f31-4829-933d-2f3cdb378f66	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 12:11:16	1m 46s	golden_ardinghelli	ERR	2ebe6e7c359427dd90a1c0e90c90f5b6	d5de7099-b940-41c3-9162-619faad7191b	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 12:15:35	1m 46s	pedantic_raman	ERR	2ebe6e7c359427dd90a1c0e90c90f5b6	502578ff-e35b-4a70-aedb-2ce3a77993f2	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 12:18:44	1m 45s	deadly_avogadro	ERR	2ebe6e7c359427dd90a1c0e90c90f5b6	502578ff-e35b-4a70-aedb-2ce3a77993f2	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-29 12:22:33	3m 8s	sad_angela	ERR	2ebe6e7c359427dd90a1c0e90c90f5b6	502578ff-e35b-4a70-aedb-2ce3a77993f2	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-29 12:29:48	2m 11s	compassionate_carlsson	ERR	198442cb19d31b4cbcbf9d3a9fb336bf	6806b054-c0ae-4b1f-bc9a-91b5a343792b	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 13:22:18	5m 27s	marvelous_shockley	ERR	de0eded6a8a9aab382256e62fe1fd838	2f965012-f7c0-43d5-b4e3-e62947467761	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 13:29:38	6.3s	prickly_hopper	ERR	437e95649fe20b4cdc923c8c7d7337e1	2f965012-f7c0-43d5-b4e3-e62947467761	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-29 13:30:39	7s	stupefied_venter	ERR	2787949544695fd6dcb844183108d916	2f965012-f7c0-43d5-b4e3-e62947467761	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-29 13:31:38	-	modest_payne	-	d03b909bb965536379fcc07df1248ae1	2f965012-f7c0-43d5-b4e3-e62947467761	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-29 14:16:51	-	suspicious_poisson	-	ef72e058a9bce8b7725042c395b7eba6	9373c82b-cd4b-4075-8770-70220d46be42	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:17:48	37.8s	stoic_ardinghelli	ERR	ef72e058a9bce8b7725042c395b7eba6	d7b505c8-cd70-426f-b097-00c362cfc729	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:18:38	1m 16s	nice_becquerel	ERR	fb664f5987e449d2df8c0cb6c7b390e5	12830bca-5468-4141-a3c9-139732f45f5d	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:21:09	1m 16s	golden_bose	ERR	d0fabe2fa094b307fb2fa7aa564cc61f	6441e786-db26-4768-afb7-9ac545e53091	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:23:10	1m 16s	thirsty_swirles	ERR	e8aaf6e32979044b0a45add04bdfdf67	28c153a0-584c-4bf0-963d-8d0d5c8c08f2	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:24:59	-	stoic_sinoussi	-	b53c8ad9410f11bfb60ffeabc16cbd63	5e70e4ac-83ef-4554-bcb8-68e981a2d8c0	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:25:29	-	tender_koch	-	f5ea1f482dd711002e117a9646eec023	43680de0-c2bc-4af6-8783-9ae3b3bec108	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:27:51	-	loquacious_bhabha	-	049886900bd7350a8b64c6fa574bf642	739c5980-9a97-4ed5-b213-bf70717c5933	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:28:33	-	jovial_volta	-	02a1326b2e27188bbf9fb1500b72d273	86fc7c32-6126-46ae-b466-39f5e87aa31e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:30:05	-	condescending_volhard	-	e607200262d4690817b25aac23721cbc	f11e509c-fefb-4e51-b0af-47e8706b6f88	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:30:34	-	confident_meitner	-	12520fc84699b02cdd9bdb861aa7a3e1	f2a45b70-1dd0-4e7c-a8c0-569b18c6fc77	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:31:29	-	insane_kimura	-	aaa16251eb335fbacddf3af45f6c8c14	cb6a8cfd-e219-42d3-80ad-4f3eb045cf64	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:32:48	-	nice_church	-	4a28f3f5650bb685d04bde164366f4f3	553075d4-d8a4-4137-a196-ede16362fd18	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:33:40	-	special_bohr	-	eebef5bf791e5885c8848937b043d936	a97fd8a8-8aca-4221-b061-9fcb535051af	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:34:43	-	scruffy_gutenberg	-	b209655056e87d3f08c61f77265c7e9e	1ec56c57-db6c-4abd-a250-7365fe569ad4	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:35:19	-	focused_lovelace	-	5894381eed0a6f2820feef0e69f4af1a	06563049-f74a-4950-ae26-7021c31c681f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:37:42	1m 19s	modest_pesquet	ERR	bfdc18a337da9f2f0868c896909e052f	a04c8a74-13f6-4c5b-a775-e3bb6a1f584a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:40:25	1m 45s	clever_church	ERR	3c2db98697e8df3cf6614262f3b22a5d	28d5ad11-2a7b-4667-abb1-b4f566765eaf	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:47:10	-	curious_wozniak	-	57780a190588c620e80b37eabfdf0383	9cdc6733-f8be-48c1-b8d1-1f1a4e132de6	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:47:47	1m 16s	lonely_leakey	ERR	af8425f20d30344ac913da2cf322d276	b8120dd6-c03b-4d50-8000-b5bac5b62d97	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:49:54	1m 17s	friendly_sax	ERR	f81080addd06932d1b81299c454c2d7e	f5fc5324-0599-44ec-89fa-0f7263fb4c31	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:54:07	1m 16s	festering_rosalind	ERR	c5d635e8269bcd551b0e1b04328ff542	361f8fa1-c681-4df6-b977-5b05e01d1e71	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 14:55:40	1m 16s	maniac_booth	ERR	b81ca042d0c32360b8b51389c60735af	38158c3c-06b3-4699-8dca-5afb30843edf	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:00:48	-	goofy_moriondo	-	043dcca6e54371cc92abcf6bd2238923	613af89d-a495-4a51-a088-eeb214f10d10	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:01:40	-	spontaneous_koch	-	d18cab6fc61e3a5e5d7edaa1c3cb4242	a07b05dd-6ffc-45b7-a46f-12a943b41ffa	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:04:17	-	irreverent_solvay	-	4de66190a8b6bc272301467ca5e0e4b5	41cc5839-017e-451d-a7ac-6a9e1eeeb198	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:05:35	-	hopeful_hilbert	-	4a4c3cc64b3fdb8c5223836dc230d8c5	fc998783-fb6e-47e5-be3e-addadd4dbf93	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:06:45	4m 5s	hungry_crick	ERR	959dcd7cf0fdfef7be3673120e03eb5b	10ef80e3-badb-45b7-8064-d0f901eacbeb	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:25:48	2m 10s	pensive_planck	ERR	959dcd7cf0fdfef7be3673120e03eb5b	e103fdbb-0124-4ee2-95aa-c62070e8d7d2	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:36:22	-	wise_wozniak	-	64dc4d4a7d120a57a39e6bb357a3602c	d3f3ba27-8905-451c-b8ea-cdf363f15f8a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:38:57	1m 15s	sad_lovelace	ERR	00dcd335105ba4387927651dd18a4443	6a4d2afe-8f3e-46ab-968d-1287418e3c3f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:45:43	1m 15s	marvelous_wilson	ERR	ebd9e8960aa627cf05fa8e96577eed4d	82ddb13f-2be2-4568-a75f-1f41b8a7ac51	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:52:15	1m 15s	maniac_easley	ERR	beef81c1a390ff7034c358bb770e5f06	a2705aca-713b-4f89-94e1-164e0a4ebe73	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 15:56:49	1m 16s	nasty_cuvier	ERR	f633e29a2103d372d970d40a902c88f0	d5cc6b83-22c6-4252-a6cd-1c2b73a13758	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 16:01:33	-	soggy_mcnulty	-	ff089a5a6d53149e719658993d8ae9ba	63855df1-6021-4e5f-b8a2-57b98a94a787	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 16:01:52	2m 16s	serene_spence	ERR	635de913d91f4145f1c1578fd4d88a5e	8d4ecf96-bb7d-42ec-a9e9-9f7a4c917c08	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 16:06:00	1m 15s	golden_feynman	ERR	92308961f6034bd5af6b6b8e56ce4303	f3e404af-526a-4cd8-88e6-10c852cf3c11	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-29 16:08:23	8m 34s	voluminous_roentgen	ERR	ee49bab94a7454ffe785f63519412995	efd52b54-78eb-421b-a0c9-8ecff448b7d4	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 09:38:12	9m 20s	curious_venter	ERR	ee49bab94a7454ffe785f63519412995	c2bb51aa-6891-4f9e-961c-8c7f2d563d1f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 09:47:48	12m 40s	admiring_mclean	ERR	3f9b31988c93abdc3683c6227b7ae517	c2bb51aa-6891-4f9e-961c-8c7f2d563d1f	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 10:13:26	-	pensive_spence	-	4da8eef313db7297ee4ad7b22da8913c	3c099258-03c9-4a77-b0cf-267436cfe6e1	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:14:17	-	condescending_stone	-	b98d8598914f94babb36a750abfad77d	b68e1e0b-b259-4ec6-a229-979a4cfaf5a4	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:15:14	-	infallible_torvalds	-	9f268e982642a0942689ecda2b2b6745	584046d4-d677-423e-ae5b-d6986c1ed107	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:18:43	-	mighty_jepsen	-	db1fa53b3f8e8185fc77bbc66b5ccfe0	b3c683b4-6deb-416f-aa79-d9451e080e0d	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:20:13	2m 9s	condescending_stallman	ERR	48432ebea12410a557a3d7a58d9f5619	c78ae0c0-0847-47b2-b4f1-8ad2269f1ec8	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:22:30	3m 5s	nauseous_planck	OK	0255e46fd447dd320920f962a7ac6466	3cf8edc3-a34f-44c4-8833-62fef7a2597a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:38:30	1m 15s	mad_hilbert	ERR	0255e46fd447dd320920f962a7ac6466	48bfb1cd-5c44-4228-85a6-2c0b65bff007	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:40:22	1m 50s	jolly_noether	ERR	0255e46fd447dd320920f962a7ac6466	8531f6e2-9e05-479e-bc80-f452758a38fa	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:42:47	4m 47s	festering_noether	ERR	0255e46fd447dd320920f962a7ac6466	3f43ffb5-55ce-49ce-8a72-55b02a76cbec	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 10:48:30	2m 4s	special_crick	ERR	3c8c3b7aaa2cbd00eca0accde03f9976	3f43ffb5-55ce-49ce-8a72-55b02a76cbec	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 10:51:14	3m 5s	deadly_planck	OK	3c8c3b7aaa2cbd00eca0accde03f9976	76a69ed5-b97d-48fc-9cc7-c80e70201d5a	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 11:05:01	-	clever_snyder	-	d8cc5cd63452c9b9b0f90337fba53064	ad3775ea-90a7-485a-a0f7-83e3694eb625	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 11:05:36	19m 11s	scruffy_majorana	ERR	d8cc5cd63452c9b9b0f90337fba53064	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 11:36:07	-	focused_ardinghelli	-	d8cc5cd63452c9b9b0f90337fba53064	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 11:37:18	-	tender_snyder	-	f1e2abc1d0236a347de7cadd1474250a	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 11:38:01	11m 9s	nauseous_snyder	OK	529e3be8f7487cad0b8931a423812eeb	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:05:34	5.9s	dreamy_jang	ERR	afe3342dc755f4f4967c7cbf4db86c97	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:06:35	1m 20s	evil_lamarck	OK	afe3342dc755f4f4967c7cbf4db86c97	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:10:37	2m 24s	disturbed_easley	OK	8aafcf95ff1389976d8639b8f968d212	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:23:10	4m	happy_volta	OK	c99b1b1e9c61fce7d3a9dba01eddce25	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:28:30	-	mighty_volhard	-	1df7313a6bdbb20b4cb0ee7fe2e173a7	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:28:55	40.3s	gigantic_wing	ERR	847dce8df90bd43a64ed7879e5165bdb	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:30:25	2m 35s	small_ardinghelli	ERR	847dce8df90bd43a64ed7879e5165bdb	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:34:01	-	furious_spence	-	5a6bf59d10b4fc238ef34c05bd05b28e	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:39:51	-	determined_shirley	-	bc6f28e3c8884940f96bc66a9cc9d581	2b86e8df-7a1c-468f-8140-9a3ab02fe913	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 15:45:29	-	prickly_poisson	-	bc6f28e3c8884940f96bc66a9cc9d581	d377ca37-6ba3-4636-b30f-f1407831ad3b	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 15:46:05	8m 44s	clever_mccarthy	ERR	f86882ffc7b6ee538d5173c4bd834d51	01549bde-4c75-413c-9ba2-73e92397df43	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:00:14	-	thirsty_bose	-	5bb548251cf418939feff298239ffb9b	08fcd9b9-77de-4772-b634-9ff1311b36c6	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:00:45	-	golden_meucci	-	5381a59aceb6b32d289b8f450c9eabcf	25dc5e01-4ca8-408a-858e-08dc288c43a1	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:04:33	-	stoic_shirley	-	cc56fd81db1149ef964244869af9ec38	5325ea90-c7f2-4c04-9619-730261904749	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:05:07	-	backstabbing_pasteur	-	1d183725c6bff45d6ada2129e0cd5613	21d311d0-37b8-4bab-b4fc-398213dc2580	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:05:44	-	sad_dalembert	-	1d183725c6bff45d6ada2129e0cd5613	7069dd1c-cf34-442e-b271-eb784fa8891f	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:06:38	-	ridiculous_brazil	-	1d7423ded336df35ba4135d783a9a98b	7767388e-019c-40cb-bf01-4da9e716c0f1	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:08:31	-	shrivelled_legentil	-	1d7423ded336df35ba4135d783a9a98b	92287a5a-7faf-4976-bea4-49b59e6a6c88	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:09:22	26m 20s	maniac_ride	ERR	1d7423ded336df35ba4135d783a9a98b	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-30 16:36:24	3m 2s	admiring_varahamihira	ERR	1d7423ded336df35ba4135d783a9a98b	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:42:57	1m 2s	extravagant_lorenz	ERR	ef198bf7a6fd9dbdcaf4f91f8bc8a9c5	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:44:18	15.8s	shrivelled_poitras	ERR	b2d41154f54fd9c3fe2acbc8154d2588	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:48:12	1m 33s	grave_gauss	ERR	b2d41154f54fd9c3fe2acbc8154d2588	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:49:54	7.2s	ecstatic_bartik	ERR	04cadd3970e674e7dd2414f092782679	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:50:26	-	stupefied_heyrovsky	-	2690b53abc1384041f528dd476091c35	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:54:08	3m 8s	mighty_leakey	ERR	e08de5480f168278e97897e40b409e97	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 16:57:24	1m 59s	focused_angela	ERR	ba016728d7a91f7a51688ccd81730719	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-30 17:01:18	2m 21s	amazing_turing	ERR	ba016728d7a91f7a51688ccd81730719	9ec8edb9-689b-495c-88f4-dc1a24326571	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-31 09:59:05	32m 7s	pensive_einstein	OK	ba016728d7a91f7a51688ccd81730719	061e93ad-d5f5-44e3-a601-3319248e4b51	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-31 10:37:44	-	cheesy_shannon	-	f782703a1f3aafa7f3657531f1627499	1b74f544-005f-44bd-9779-eb117e637023	nextflow run main.nf -c nextflow.config --input_csv input.csv --resume
+2025-01-31 10:38:05	32m	festering_angela	OK	f782703a1f3aafa7f3657531f1627499	1b74f544-005f-44bd-9779-eb117e637023	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-01-31 11:20:26	32m 50s	reverent_brahmagupta	ERR	8a1ac77e2766e1e511130e36a110d4bb	34b175c7-629b-4e73-90dc-90b949eb8029	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-01-31 11:55:47	1m 49s	disturbed_poincare	OK	e4be7ff36e5137cc0387f1f03594eb04	34b175c7-629b-4e73-90dc-90b949eb8029	nextflow run main.nf -c nextflow.config --input_csv input.csv -resume
+2025-02-06 13:20:23	-	nasty_liskov	-	f794b1b563cc3b1deb07004a58e15673	3b3182af-818e-4b37-a504-ef6c79da30db	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-02-06 13:21:34	-	prickly_nobel	-	7b1f0c85ba4b4ea41a5009eb2f5c73f1	d8000731-b564-4b57-9d4a-6a1c6b9a4e10	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-02-06 13:22:17	-	friendly_einstein	-	7b1f0c85ba4b4ea41a5009eb2f5c73f1	ac686280-6d74-40a7-b392-6d45fac53e8e	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-02-06 13:22:46	1m 45s	lonely_laplace	ERR	770ea0d45ca9ff15b90ddcef90866768	be885bf8-fceb-404e-b38e-182856d9f1f8	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-02-06 13:26:53	1m 45s	deadly_lorenz	ERR	bea42cc38d88b620bca48a7443b5ce4c	f2110c33-5e12-4c4b-b19d-1a0e25f3e9e5	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-02-06 13:30:35	1m 45s	infallible_poincare	ERR	bea42cc38d88b620bca48a7443b5ce4c	3d4c1405-1f68-431c-b0f7-84f93e3d5482	nextflow run main.nf -c nextflow.config --input_csv input.csv
+2025-02-06 13:36:04	-	mighty_keller	-	bea42cc38d88b620bca48a7443b5ce4c	8ad5099e-e042-4d88-9d99-52cd53cc6697	nextflow run . -entry checkPath
+2025-02-06 13:36:28	-	compassionate_jepsen	-	bea42cc38d88b620bca48a7443b5ce4c	d5c799cf-9a95-4224-b921-037f0ea6d6a2	nextflow run . -entry checkPath --input_csv input.csv
+2025-02-06 13:39:51	-	elegant_lavoisier	-	bea42cc38d88b620bca48a7443b5ce4c	d728cd20-d122-4e5c-9bb6-3642b9b4806c	nextflow run . -entry CSVSETUP --input_csv input.csv
+2025-02-06 13:41:20	-	loquacious_thompson	-	bea42cc38d88b620bca48a7443b5ce4c	1c372bfe-4b87-4754-b7c3-388ccaa90369	nextflow run . -entry CSVSETUP --input_csv input.csv -c nextflow.config
+2025-02-06 13:49:21	1m 45s	maniac_ampere	ERR	0494800f4b280ccb5e2af954e3368449	472925b8-1c0e-4384-b40c-3cd9e257b24b	nextflow run . --input_csv input.csv -c nextflow.config
+2025-02-06 13:52:30	1m 45s	scruffy_gauss	ERR	0494800f4b280ccb5e2af954e3368449	f4ab8780-cd21-4c93-80f7-cd2194fad498	nextflow run . --input_csv input.csv -c nextflow.config
+2025-02-06 14:00:35	18m 5s	focused_booth	ERR	0494800f4b280ccb5e2af954e3368449	df2664eb-e31f-4b7b-8bd7-4df45e784055	nextflow run . --input_csv input.csv -c nextflow.config
+2025-02-06 14:39:37	33m 25s	deadly_hodgkin	OK	0494800f4b280ccb5e2af954e3368449	df2664eb-e31f-4b7b-8bd7-4df45e784055	nextflow run . --input_csv input.csv -c nextflow.config -resume
+2025-02-07 11:08:20	-	golden_bartik	-	9c85674820f8ef08823bdd6306c6286a	e5665227-5b68-4625-8628-dee8f4f6c54f	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 11:11:08	-	exotic_waddington	-	9c85674820f8ef08823bdd6306c6286a	8b1222aa-df81-422d-b293-3e880ff45b97	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 11:26:50	-	pensive_liskov	-	9c85674820f8ef08823bdd6306c6286a	1a6c656b-cb83-4538-b23c-f9debb4f42e5	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 11:29:03	37m 21s	hopeful_solvay	OK	9c85674820f8ef08823bdd6306c6286a	dc0686aa-8433-4979-b7f1-5955e504e4ab	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 13:56:43	3m 25s	high_fourier	ERR	bd7d77b4fd5f7ff82b168cfed3038fd0	6d8632a7-8946-4201-a754-9d8c768544ce	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 14:08:01	2m 55s	gigantic_kimura	ERR	bd7d77b4fd5f7ff82b168cfed3038fd0	7d177a14-05ba-49e0-8f55-fda16aabce1b	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 14:11:57	2m 56s	nauseous_stonebraker	ERR	bd7d77b4fd5f7ff82b168cfed3038fd0	43b5014b-0dba-4b2c-902d-248027757341	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 14:17:15	2m 55s	suspicious_franklin	ERR	bd7d77b4fd5f7ff82b168cfed3038fd0	ed57ebdf-0e55-4ba8-9b3e-47b8cdfab145	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-07 14:22:42	31m 49s	spontaneous_mccarthy	OK	bd7d77b4fd5f7ff82b168cfed3038fd0	512f90d6-d4f5-40f8-a914-47f28a184580	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon True
+2025-02-10 17:11:52	1m 44s	sharp_avogadro	ERR	bd7d77b4fd5f7ff82b168cfed3038fd0	418b5fbc-72bf-4204-842f-cd4f930b38df	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true
+2025-02-10 17:13:55	-	nice_shannon	-	bd7d77b4fd5f7ff82b168cfed3038fd0	7d883ca6-689d-4720-b648-7d01032c4716	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true
+2025-02-11 09:46:15	31m 46s	prickly_heisenberg	OK	bd7d77b4fd5f7ff82b168cfed3038fd0	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true
+2025-02-11 11:19:27	1m 54s	ridiculous_edison	ERR	6c9df438ffe31149cf5c5e56176923a9	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 11:22:26	1m 15s	special_poitras	ERR	6c9df438ffe31149cf5c5e56176923a9	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 11:24:20	1m 15s	suspicious_bose	ERR	6c9df438ffe31149cf5c5e56176923a9	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 11:51:33	34m 30s	stupefied_sinoussi	OK	6c9df438ffe31149cf5c5e56176923a9	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 13:38:10	1m 26s	wise_carlsson	ERR	6087de74bcdb6026d690c2960572f5a4	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 13:40:02	1m 26s	spontaneous_meucci	ERR	6087de74bcdb6026d690c2960572f5a4	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 13:42:36	2m 20s	spontaneous_hodgkin	OK	6087de74bcdb6026d690c2960572f5a4	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume
+2025-02-11 13:50:38	1m 20s	boring_raman	OK	6087de74bcdb6026d690c2960572f5a4	f3881908-6bc3-4a5d-aa1d-1be193d489f9	nextflow run main.nf -c nextflow.config --input_csv input.csv --single_exon true -resume

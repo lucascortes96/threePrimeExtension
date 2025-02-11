@@ -1,0 +1,104 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Nextflow Pipeline Schema",
+    "type": "object",
+    "$defs": {
+      "input_options": {
+        "title": "Input/output options",
+        "type": "object",
+        "fa_icon": "fas fa-terminal",
+        "description": "Define where the pipeline should find input data and save output data.",
+        "required": [
+          "input_csv"
+        ],
+        "properties": {
+          "input_csv": {
+            "type": "string",
+            "pattern": "^[a-z,A-Z,_,0-9]+.(csv)$",
+            "description": "Input metadata csv, containing files required for run, na in place of no file. Program will take file from row above",
+            "format": "file-path"
+          }
+        }
+      }
+    },
+    "properties": {
+      "config_profile_contact": {
+        "type": "string",
+        "default": "Saul Pierotti (@saulpierotti)"
+      },
+      "config_profile_description": {
+        "type": "string",
+        "default": "The European Bioinformatics Institute HPC cluster (codon) profile for the SLURM login nodes"
+      },
+      "config_profile_url": {
+        "type": "string",
+        "default": "https://www.ebi.ac.uk/"
+      },
+      "outputDir": {
+        "type": "string",
+        "default": "outputs"
+      },
+      "fantom": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/FANTOM6CATtranscript.gff"
+      },
+      "encode": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/ENCODE_LongReadModels.gtf"
+      },
+      "polyA": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/atlas.clusters.2.0.GRCh38.96.filtered.bed"
+      },
+      "human1": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/matched_filtered_human_exons.gff"
+      },
+      "human": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/Homo_sapiens.GRCh38.112.chr.gff3"
+      },
+      "matcher": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/nextflowScripts/modules/processchromosomes/polyAFantom3primeChecker.py"
+      },
+      "cleanup": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/nextflowScripts/modules/cleanup/removeDupPolyA.py"
+      },
+      "overlap": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/nextflowScripts/modules/overlap/Overlap.py"
+      },
+      "referenceGff": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/Homo_sapiens.GRCh38.112.chr.NoReadthrough.ProteinCoding.gff3"
+      },
+      "threePrimeGrab": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/nextflowScripts/modules/threePrimeGrab/threePrimeGrab.py"
+      },
+      "generalExonMatcher": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/nextflowScripts/modules/generalExonMatcher/generalExonMatcher.py"
+      },
+      "readThroughs": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/data/readthroughList/readthroughList.txt"
+      },
+      "humanFilter": {
+        "type": "string",
+        "default": "/nfs/production/flicek/ensembl/havana/lucascortes/polyA-DB/nextflowScripts/modules/humanFilter/humanFilter.py"
+      },
+      "input": {
+        "type": "string",
+        "description": "Path to the input CSV file",
+        "format": "file-path"
+      }
+    },
+    "allOf": [
+      {
+        "$ref": "#/$defs/input_options"
+      }
+    ]
+  }
