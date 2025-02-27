@@ -17,6 +17,7 @@ include {THREEPRIMEGRAB} from './modules/threePrimeGrab'
 include {GENERALEXONMATCHER} from './modules/generalExonMatcher'
 include {HUMANFILTER} from './modules/humanFilter'
 include {CSVSETUP} from './modules/csvSetup'
+include {PREPNEXT} from './modules/prepNext'
 
 
 // Validate input parameters
@@ -28,12 +29,12 @@ log.info paramsSummaryLog(workflow)
 workflow {
     //READING IN PARAMS
     outputDir = file(params.outputDir)
-    human = file(params.human)
-    polyA = file(params.polyA)
-    fantom = file(params.fantom)
-    encode = file(params.encode)
+    //human = file(params.human)
+    //polyA = file(params.polyA)
+    //fantom = file(params.fantom)
+    //encode = file(params.encode)
     cleanup = file(params.cleanup)
-    referenceGff = file(params.referenceGff)
+    //referenceGff = file(params.referenceGff)
     readThroughs = file(params.readThroughs)
     
     
@@ -46,19 +47,42 @@ workflow {
     generalChannel = generalChannel.splitCsv()
     generalChannel.view()
     //RUNNNING WORKFLOW 
-    humanOut = HUMANFILTER( generalChannel, readThroughs, params.single_exon)
-    humanOut.collect().view()
+    if (params.prep_next){
+        humanOut = HUMANFILTER( generalChannel, readThroughs, params.single_exon)
+        humanOut.collect().view()
+        threePrimeOut = THREEPRIMEGRAB(humanOut).view()
+        generalOut = GENERALEXONMATCHER(threePrimeOut, params.single_exon)
+        generalChromosomes = generalOut.combine(chromosomes).view()
+        splitChrs = SPLITCHROMOSOMES(generalChromosomes) 
+        processChrOut = PROCESSCHROMOSOMES(splitChrs)
+        .groupTuple(by: 0)  // Group by ID (index 0)
+        .map { id, chrs, files -> tuple(id, files.flatten()) }  // Flatten the list of files
+        .view()
 
-    threePrimeOut = THREEPRIMEGRAB(humanOut).view()
-    generalOut = GENERALEXONMATCHER(threePrimeOut, params.single_exon)
-    generalChromosomes = generalOut.combine(chromosomes).view()
-    splitChrs = SPLITCHROMOSOMES(generalChromosomes) 
-    processChrOut = PROCESSCHROMOSOMES(splitChrs)
-    .groupTuple(by: 0)  // Group by ID (index 0)
-    .map { id, chrs, files -> tuple(id, files.flatten()) }  // Flatten the list of files
-    .view()
+        catted = CATALL(processChrOut)
+        cleaned = CLEANUP(catted)
+        prepnext_out = PREPNEXT(cleaned.csv, cleaned.id)
+        prepnext_out.view()
+    } else{
+        // Rearrange the tuple so the input matches what is needed by generalexonmatcher
+        rearrangedChannel = generalChannel.map { id, human, polyA, fantom, encode ->
+            tuple(id, polyA, fantom, encode, human)
+        }
+        // View the rearranged tuples
+        rearrangedChannel.view()
+        generalOut = GENERALEXONMATCHER(rearrangedChannel, params.single_exon)
+        generalChromosomes = generalOut.combine(chromosomes).view()
+        splitChrs = SPLITCHROMOSOMES(generalChromosomes) 
+        processChrOut = PROCESSCHROMOSOMES(splitChrs)
+        .groupTuple(by: 0)  // Group by ID (index 0)
+        .map { id, chrs, files -> tuple(id, files.flatten()) }  // Flatten the list of files
+        .view()
 
-    catted = CATALL(processChrOut)
-    CLEANUP(catted)  
+        catted = CATALL(processChrOut)
+        cleaned = CLEANUP(catted)
+        prepnext_out = PREPNEXT(cleaned.csv, cleaned.id)
+        prepnext_out.view()
+    }
     //OVERLAP(CLEANUP.out, overlap, referenceGff)
 }
+    

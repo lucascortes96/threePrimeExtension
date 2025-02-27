@@ -2,3 +2,7 @@
 /leapContainer.sif
 /nextflowbatch.sh
 /outputs
+/work
+.nextflow.log*
+/.nextflow/
+/*.sif

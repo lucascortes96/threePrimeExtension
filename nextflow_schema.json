@@ -17,6 +17,16 @@
             "pattern": "^[a-z,A-Z,_,0-9]+.(csv)$",
             "description": "Input metadata csv, containing files required for run, na in place of no file. Program will take file from row above",
             "format": "file-path"
+          },
+          "single_exon":{
+            "type": "boolean",
+            "description": "If true, will eliminate single exons",
+            "format": "boolean"
+          },
+          "prep_next":{
+            "type": "boolean",
+            "description": "If true, will only run the prep next pipeline, skipping a few steps and adding one at the end, if false will run the full pipeline",
+            "format": "boolean"
           }
         }
       }

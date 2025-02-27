@@ -58,6 +58,7 @@ def main(input_file, output_file):
     differences = []
     ensg_largest_extension = None
     largest_difference = 0
+    line_count = 0
 
     final_output_file = output_file.replace('.csv', '_final.csv')
 
@@ -74,13 +75,19 @@ def main(input_file, output_file):
                 strand = row[6]
                 if strand == '+':
                     selected_value = float(row[4])
+                    difference = abs(selected_value - float(row[11]))
+                    differences.append(difference)
+                    row.append(difference)  # Add difference to the row
+                    writer.writerow(row)  # Write row to output file
                 else:
                     selected_value = float(row[3])
+                    difference = abs(selected_value - float(row[10]))
+                    differences.append(difference)
+                    row.append(difference)  # Add difference to the row
+                    writer.writerow(row)  # Write row to output file
+                line_count +=1
 
-                difference = abs(selected_value - float(row[10]))
-                differences.append(difference)
-                row.append(difference)  # Add difference to the row
-                writer.writerow(row)  # Write row to output file
+                
 
                 if difference > largest_difference:
                     largest_difference = difference
@@ -102,6 +109,7 @@ def main(input_file, output_file):
         f.write(f"Mean of differences: {mean_difference}\n")
         f.write(f"Median of differences: {median_difference}\n")
         f.write(f"Largest extension: {largest_difference} (ENSG: {ensg_largest_extension})\n")
+        f.write(f"Total number of lines: {line_count}\n")
 
     # Create a distribution chart (histogram) of the differences
     plt.hist(differences, bins=30, edgecolor='black')
